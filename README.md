@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericwise2nd
 - 👀 I’m interested in Meeting people and learning new Technologies.
-- 🌱 I’m currently learning nodejs 
+- 🌱 I’m currently a student of ALX Software Engineering Program. 
 - 💞️ I’m looking to collaborate on amazing Projects.
 - 📫 How to reach me through timothyericwise@gmail.com
 
